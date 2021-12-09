@@ -161,7 +161,6 @@ namespace AntiAfkKick
                     Console.WriteLine("Error writing app settings");
                 }
             }
-            //internal static extern string AddUpdateAppSettings(string key, string value);
         }
     }
 
