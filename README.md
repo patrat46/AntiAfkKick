@@ -26,7 +26,7 @@ Just download it and run it. No configuration needed. To exit, access program's 
 Download link: https://github.com/Eternita-S/AntiAfkKick/releases
 
 ## Patrat - Standalone
-My tweaks on some the app let. More features, worse coding. 
+My tweaks on the app. More features, worse coding. 
 
 ###### Features:
   * Random timer between clicks
@@ -45,10 +45,10 @@ My tweaks on some the app let. More features, worse coding.
 
 
 ## How it works?
-It just sends left control key to the game every now and then. Seems like for now it's enough to make game think user is still active. It won't send keypress if you are actually playing.
+At set intervals the program checks if the game window has been active within the last minute. If the game window has been idle a left control click is sent. This is enoung to reset the client inactivity timer.
 
 ## But you can just open hud layout and you won't be kicked!
-Not anymore
+Not anymore. With the recent release of 6.0 Square Enix has updated many loop holes that would allow a person to be in active for extended periods of time. This was implemented to help with congestion, as they have been unable to provide reliable service to their entire subscription base.
 
 ## Ethical side of the plugin and my personal opinion about auto-kick
 Some people question ethical side of this plugin and in general are against circumventing auto-afk kicking. Here is my personal opinion about it and why I think it's OK to do so:
@@ -73,3 +73,24 @@ If you are unable to offer the service I paid for, change the service User Agree
 >
 >Sixty days of game time will be added to your account once you redeem the game time code on the [Mog Station](http://sqex.to/Msp), the FINAL FANTASY XIV Account Management System. The 20-digit code can be found on the physical card, printed on a purchase receipt, or delivered via the digital retailer.
 [User Agreement](https://support.na.square-enix.com/rule.php?id=5382&la=1&tag=users_en)
+
+## Does this count as "Prohibited Activites"
+
+###### Short answer: Yes. 
+
+[Prohibited Activities in Final Fantasy XIV](https://support.na.square-enix.com/faqarticle.php?id=5382&la=1&kid=68216)
+> ■Behavior that disrupts the game balance
+Square Enix strictly prohibits the use of third-party programs or tools as these disrupt the balance of the game. Third-party programs and tools that permit automated or "absentee" play are prohibited. A Game Master (GM) may speak to players to investigate and confirm "absentee" play, and if the player continues with this behavior, contrary to the GM's instructions, they will be treated as participating in "absentee" play and subject to penalties.
+>
+>Accordingly, the following activities are prohibited:
+>
+> - Modifying, analyzing, integrating, and/or reverse-engineering game software or data.
+> - Creating, distributing, using, or promoting utilities that interact with the game.
+
+###### Long Answer: Yes, but unlikely to be enforced.
+
+GM's and game development has stated on multiple occassions they do not have plans to monitor software running on a persons computer. They have acknowledged that 3rd party applications are commonly used for parsing and modifying the game. They do not intend to hunt down every person who use 3rd party application and don't want to be petty about it. Keyboard and Mouse Macros have been allowed in multiple forums posts on a case by case basis, the response being ruffly, "Can you do it without the Macro? Does it give you an unfair advantage? and are you the one still playing the game or is it playing itself?". With their posted attitude and videos on mods and 3rd party applications, it appears they are more concerned about how your actions affect other players experiance.
+
+## What are the alternatives?
+
+Currently there is no known way to bypass the inactivity kick. To remain online for longer than 30 minutes you need to interact with the game. You can set a timer and click a button. You can also install remote access applications to you commputer and your phone. When you step away for extend periods use your remote access to check in every <30 mins.
