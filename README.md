@@ -60,7 +60,9 @@ Some people question ethical side of this plugin and in general are against circ
 ## Patrat's Opinion
 I love my characters and want them to be as alive as possible. Early on my characters would find a bed and go to sleep while I was resting. I work them pretty hard and they rarely go offline. Together they work to add entertainment for my community, while one stands guard to ensure security.
 
-I pay for my time like everyone else. This time entitles me to 30, 60, 90 days or a year of services. When they take action against me for using this service by kicking me offline they are taking away the service I paid for without compensating me. My time is not extended when I am offline. My time is not refunded when I am in a queue. We don't pay by minute, the minimum increment we have is the month. If I am AFK for a month, feel free to pause my subscription and kick me offline, when I get back in you can start it back up again. Either that or change the terms of the subscription. If you are unable to offer the service I paid for, change the service User Agreement or product description, so I can consider my purchase better. I won't kill my characters because others believe their characters should have priority over my time.
+I pay for my time like everyone else. This time entitles me to 30, 60, 90 days or a year of services. When they take action against me for using this service by kicking me offline they are taking away the service I paid for without compensating me. My time is not extended when I am offline. My time is not refunded when I am in a queue. We don't pay by minute, the minimum increment we have is the month. If I am AFK for a month, feel free to pause my subscription and kick me offline, when I get back in you can start it back up again.
+
+If you are unable to offer the service I paid for, change the service User Agreement or product description, so I can consider my purchase better. I won't kill my characters because others believe their characters should have priority over my time.
 
 
 
