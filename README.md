@@ -25,6 +25,23 @@ Just download it and run it. No configuration needed. To exit, access program's 
 
 Download link: https://github.com/Eternita-S/AntiAfkKick/releases
 
+## Patrat - Standalone
+My tweaks on some the app let. More features, worse coding. 
+
+Features:
+*Random timer between clicks
+**Min Delay options in Windows Notification. 
+**Max Delay options in Windows Notification. 
+*Always On
+**Select option to Always send keystrokes, even on active windows.
+*Configuration File
+**If you would like to set your own min/max delays easily accessible configuration file.
+
+[Patrat - Standalone Installer](https://github.com/patrat46/AntiAfkKick/blob/3ad706e22203df5b51e21ba7b1efa58e5125b47e/Patrat%20-Standalone/InstallAntiAFKKicker.exe)
+
+[Patrat - Standalone 2.0.0.1](https://github.com/patrat46/AntiAfkKick/tree/patrat46-Stand-alone/Patrat%20-Standalone/Build/2.0.0.1)
+
+
 ## How it works?
 It just sends left control key to the game every now and then. Seems like for now it's enough to make game think user is still active. It won't send keypress if you are actually playing.
 
