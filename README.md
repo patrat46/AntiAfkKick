@@ -31,14 +31,37 @@ My tweaks on the app. More features, worse coding.
 ###### Features:
   * Random timer between clicks
   * Min Delay options in Windows Notification. 
-  * Max Delay options in Windows Notification. 
+  * Max Delay options in Windows Notification.
+  * Static Delay Options of 5,15, and 25 mins. 
 
-###### Always On:
-  * Select option to Always send keystrokes, even on active windows.
+###### Run Modes
+
+  * Inactive: Sit back and let the AntiAfkKicker do it for you, or run about minding your own bussiness and walk a way as duty calls with out worry. 
+  * Always On: Select option to Always send keystrokes, even on active windows. This may inturpt game play.
+  * Manual: Don't want to automate things? Go Manual. Get a friendly reminder every 5, 15, or 25 mins. Reset your time by clicking a single button, or bring up your game and manual wake then hit close to get a reminder again after the next interval. (In current versions this message shows on top, this may take mouse/keyboard focus away from the tasks you are currently preforming.)
 
 ###### Configuration File
   * If you would like to set your own min/max delays easily accessible configuration file.
-  
+  * Set Run mode 1) Inactive 2) Always on 3) Manual
+
+###### Future Plans?
+ * Custom Key selection and Random Key selction.
+ * Windows Notification popup.
+ * Compress Menus.
+ * Options Window.
+ * Better time bar (animated? Some nice little chocobos, walking closer and closer to the ledge...)
+ * Idle time window with send wake functions.
+
+
+Latest Release:
+
+[Patrat Standalone Installer](https://github.com/patrat46/AntiAfkKick/blob/826e3fa5149a1d5dd1a1583ed64a36e536ae14db/Patrat%20-Standalone/InstallAntiAFKKicker.exe)
+
+[Patrat - Standalone 2.1.0.1](https://github.com/patrat46/AntiAfkKick/tree/patrat46-Stand-alone/Patrat%20-Standalone/Build/2.1.0.1)
+
+
+Old Release:
+
 [Patrat - Standalone Installer](https://github.com/patrat46/AntiAfkKick/blob/3ad706e22203df5b51e21ba7b1efa58e5125b47e/Patrat%20-Standalone/InstallAntiAFKKicker.exe)
 
 [Patrat - Standalone 2.0.0.1](https://github.com/patrat46/AntiAfkKick/tree/patrat46-Stand-alone/Patrat%20-Standalone/Build/2.0.0.1)
