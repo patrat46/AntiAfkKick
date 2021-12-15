@@ -45,12 +45,14 @@ My tweaks on the app. More features, worse coding.
   * Set Run mode 1) Inactive 2) Always on 3) Manual
 
 ###### Future Plans?
+ * Update Issue reporting link.
+ * Add Rule Violation warning for first run
  * Custom Key selection and Random Key selction.
  * Windows Notification popup.
  * Compress Menus.
  * Options Window.
  * Better time bar (animated? Some nice little chocobos, walking closer and closer to the ledge...)
- * Idle time window with send wake functions.
+ * Per instance Idle timer window with send wake functions.
 
 
 Latest Release:
